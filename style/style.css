@@ -1,0 +1,109 @@
+body
+{
+    background-color: #C9C435;
+}
+
+.wrapper1
+{
+
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: -5%;
+    right: -5%;
+    bottom: 30%;
+    background-color: #C9C435;
+    overflow: hidden;
+}
+/*.wrapper
+{
+    position: absolute;
+    z-index: 0;
+    background-color: #C9C435;
+    border-radius: 100%;
+    height: 35%;
+    margin: 0;
+    left: -20%;
+    right: -20%;
+    bottom: 5%;
+}*/
+
+.logo
+{
+    z-index: 1;
+    margin: 20%;
+    margin-top: 5%;
+}
+
+img
+{
+    width: 100%;
+}
+
+.controlsBlock
+{
+    margin: 5%;
+    width: 90%;
+    height: 50%;
+    background-color: aquamarine;
+}
+
+.easy
+{
+    margin: 0;
+    height: 33%;
+    width: 40%;
+}
+
+.buttonEasy
+{
+    margin: 0;
+    background-color: #C9C435;
+    border: white 3px solid;
+    border-bottom: 0;
+}
+
+.middle
+{
+    margin: 0;
+    height: 33%;
+    width: 40%;
+}
+
+.buttonMiddle
+{
+    margin: 0;
+    background-color: #96AE25;
+    border-left: white 3px solid;
+    border-right: white 3px solid;
+}
+
+.hard
+{
+
+}
+
+.buttonHard
+{
+
+}
+
+.footer
+{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#info
+{
+    width: 10%;
+}
+
+#settings
+{
+    width: 10%;
+}
